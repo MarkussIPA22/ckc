@@ -1,5 +1,5 @@
 <?php 
-require "components/head.php";
+require "components/header.php";
 require "components/navbar.php";
 ?>
 
